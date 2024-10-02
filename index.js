@@ -1,0 +1,1 @@
+const myName = "Emmy Muller"
