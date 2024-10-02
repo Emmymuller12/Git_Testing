@@ -1,2 +1,2 @@
 const myName = "Emmy Muller"
-const myName = "your name"
+const age = 70;
